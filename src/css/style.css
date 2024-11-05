@@ -1,0 +1,62 @@
+@import url(variables.css);
+*{
+    font-family:Arial, Helvetica, sans-serif;   
+}
+
+body{
+    background-image: url("/public/images/RELOGIOV2.png");
+    background-repeat: no-repeat;
+    background-color: #BFABD0;
+}
+
+.logo{
+
+width: 20%;
+margin-left: 750px;
+  
+}
+
+h3{
+    font-size: medium;
+    width: 408px;
+    text-align: center;
+    color: #7E479B;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+P{
+    width: 250px;
+    text-align: center;
+    color: #7E479B;
+
+}
+
+.texto{
+text-align: center;
+margin-left: 750px;
+
+}
+
+.texto2{
+    text-align: center;
+    margin-left: 830px;
+    
+    }
+
+.container-input{
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 175px;
+}
+
+.logosbaixo{
+ width: 25%;
+ display: inline-block;
+
+}
